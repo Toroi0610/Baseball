@@ -9,3 +9,7 @@ instance/
 .vscode/
 
 *.html
+
+mlruns/
+
+*.db
