@@ -10,8 +10,6 @@ import pandas as pd
 from app.desopo_and_lefkowitz import Model
 import mlflow
 
-
-
 # 確率を計算するチームを決定
 team = "De"
 season = 2018
