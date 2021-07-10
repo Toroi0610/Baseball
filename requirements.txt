@@ -45,7 +45,7 @@ pox==0.2.8
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 pybaseball==1.0.8
-Pygments==2.6.1
+Pygments==2.7.4
 pykakasi==2.0.1
 pyparsing==2.4.7
 pyrsistent==0.16.0
